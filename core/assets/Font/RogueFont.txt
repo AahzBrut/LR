@@ -1,0 +1,29 @@
+info face="" size=8 bold=0 italic=0 charset="" unicode=0 stretchH=8 smooth=0 aa=0 padding=0,0,0,0 spacing=0,0
+common lineHeight=10 base=0 scaleW=208 scaleH=96 pages=1 packed=0
+page file="RogueFont_img.png"
+chars count=23
+char id=32 x=176 y=16 width=8 height=8 xoffset=0 yoffset=0 xadvance=9 page=0 chnl=0 letter="space"
+char id=48 x=0 y=16 width=8 height=8 xoffset=0 yoffset=0 xadvance=9 page=0 chnl=0 letter="0"
+char id=49 x=8 y=16 width=8 height=8 xoffset=0 yoffset=0 xadvance=9 page=0 chnl=0 letter="1"
+char id=50 x=16 y=16 width=8 height=8 xoffset=0 yoffset=0 xadvance=9 page=0 chnl=0 letter="2"
+char id=51 x=24 y=16 width=8 height=8 xoffset=0 yoffset=0 xadvance=9 page=0 chnl=0 letter="3"
+char id=52 x=32 y=16 width=8 height=8 xoffset=0 yoffset=0 xadvance=9 page=0 chnl=0 letter="4"
+char id=53 x=40 y=16 width=8 height=8 xoffset=0 yoffset=0 xadvance=9 page=0 chnl=0 letter="5"
+char id=54 x=48 y=16 width=8 height=8 xoffset=0 yoffset=0 xadvance=9 page=0 chnl=0 letter="6"
+char id=55 x=56 y=16 width=8 height=8 xoffset=0 yoffset=0 xadvance=9 page=0 chnl=0 letter="7"
+char id=56 x=64 y=16 width=8 height=8 xoffset=0 yoffset=0 xadvance=9 page=0 chnl=0 letter="8"
+char id=57 x=72 y=16 width=8 height=8 xoffset=0 yoffset=0 xadvance=9 page=0 chnl=0 letter="9"
+char id=58 x=72 y=16 width=8 height=8 xoffset=0 yoffset=0 xadvance=8 page=0 chnl=0 letter=":"
+char id=40 x=72 y=16 width=8 height=8 xoffset=0 yoffset=0 xadvance=8 page=0 chnl=0 letter="("
+char id=41 x=72 y=16 width=8 height=8 xoffset=0 yoffset=0 xadvance=8 page=0 chnl=0 letter=")"
+char id=47 x=72 y=16 width=8 height=8 xoffset=0 yoffset=0 xadvance=8 page=0 chnl=0 letter="/"
+char id=46 x=72 y=16 width=8 height=8 xoffset=0 yoffset=0 xadvance=8 page=0 chnl=0 letter="."
+char id=44 x=72 y=16 width=8 height=8 xoffset=0 yoffset=0 xadvance=8 page=0 chnl=0 letter=","
+char id=33 x=72 y=16 width=8 height=8 xoffset=0 yoffset=0 xadvance=8 page=0 chnl=0 letter="!"
+char id=63 x=72 y=16 width=8 height=8 xoffset=0 yoffset=0 xadvance=8 page=0 chnl=0 letter="?"
+char id=34 x=72 y=16 width=8 height=8 xoffset=0 yoffset=0 xadvance=8 page=0 chnl=0 letter="""
+char id=39 x=72 y=16 width=8 height=8 xoffset=0 yoffset=0 xadvance=8 page=0 chnl=0 letter="'"
+char id=64 x=72 y=16 width=8 height=8 xoffset=0 yoffset=0 xadvance=8 page=0 chnl=0 letter="\u00A9"
+char id=45 x=72 y=16 width=8 height=8 xoffset=0 yoffset=0 xadvance=8 page=0 chnl=0 letter="-"
+
+kernings count=0
