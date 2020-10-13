@@ -1,0 +1,614 @@
+textures.png
+size: 484, 122
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Mini/mini_armor
+  rotate: false
+  xy: 329, 105
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Mini/mini_bag
+  rotate: false
+  xy: 413, 91
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Mini/mini_blank
+  rotate: false
+  xy: 423, 91
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Mini/mini_door
+  rotate: false
+  xy: 433, 91
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Mini/mini_floor
+  rotate: false
+  xy: 443, 91
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Mini/mini_gold
+  rotate: false
+  xy: 453, 91
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Mini/mini_hallway
+  rotate: false
+  xy: 463, 91
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Mini/mini_meat
+  rotate: false
+  xy: 473, 91
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Mini/mini_player
+  rotate: false
+  xy: 413, 101
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Mini/mini_ring
+  rotate: false
+  xy: 423, 101
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Mini/mini_scroll
+  rotate: false
+  xy: 433, 101
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Mini/mini_spikes
+  rotate: false
+  xy: 443, 101
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Mini/mini_stairs
+  rotate: false
+  xy: 453, 101
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Mini/mini_sword
+  rotate: false
+  xy: 463, 101
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Mini/mini_wall_end_down
+  rotate: false
+  xy: 473, 101
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Mini/mini_wall_end_left
+  rotate: false
+  xy: 339, 109
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Mini/mini_wall_end_right
+  rotate: false
+  xy: 349, 109
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Mini/mini_wall_end_up
+  rotate: false
+  xy: 359, 109
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Mini/mini_wall_horiz
+  rotate: false
+  xy: 369, 109
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Mini/mini_wall_junction
+  rotate: false
+  xy: 379, 109
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Mini/mini_wall_junction_down
+  rotate: false
+  xy: 389, 109
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Mini/mini_wall_junction_left
+  rotate: false
+  xy: 399, 109
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Mini/mini_wall_junction_right
+  rotate: false
+  xy: 409, 111
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Mini/mini_wall_junction_up
+  rotate: false
+  xy: 419, 111
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Mini/mini_wall_lone
+  rotate: false
+  xy: 429, 111
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Mini/mini_wall_vert
+  rotate: false
+  xy: 439, 111
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Mini/mini_wand
+  rotate: false
+  xy: 449, 111
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Monster/bat
+  rotate: false
+  xy: 341, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Monster/centaur
+  rotate: false
+  xy: 131, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Monster/crow
+  rotate: false
+  xy: 341, 19
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Monster/dragon
+  rotate: false
+  xy: 359, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Monster/emu
+  rotate: false
+  xy: 149, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Monster/ghost
+  rotate: false
+  xy: 341, 37
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Monster/goblin
+  rotate: false
+  xy: 359, 19
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Monster/golem
+  rotate: false
+  xy: 377, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Monster/griffin
+  rotate: false
+  xy: 167, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Monster/horse
+  rotate: false
+  xy: 341, 55
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Monster/leprechaun
+  rotate: false
+  xy: 359, 37
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Monster/manbat
+  rotate: false
+  xy: 377, 19
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Monster/medusa
+  rotate: false
+  xy: 395, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Monster/mimic
+  rotate: false
+  xy: 185, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Monster/ogre
+  rotate: false
+  xy: 341, 73
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Monster/orc
+  rotate: false
+  xy: 359, 55
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Monster/plant
+  rotate: false
+  xy: 377, 37
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Monster/shrimp
+  rotate: false
+  xy: 395, 19
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Monster/siren
+  rotate: false
+  xy: 413, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Monster/skeleton
+  rotate: false
+  xy: 203, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Monster/slime
+  rotate: false
+  xy: 359, 73
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Monster/snake_green
+  rotate: false
+  xy: 377, 55
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Monster/snake_orange
+  rotate: false
+  xy: 395, 37
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Monster/winged_serpent
+  rotate: false
+  xy: 413, 19
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Monster/wraith
+  rotate: false
+  xy: 431, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Monster/zombie
+  rotate: false
+  xy: 221, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+RogueFont_B
+  rotate: false
+  xy: 131, 1
+  size: 208, 24
+  orig: 208, 24
+  offset: 0, 0
+  index: -1
+RogueFont_G
+  rotate: false
+  xy: 131, 27
+  size: 208, 24
+  orig: 208, 24
+  offset: 0, 0
+  index: -1
+RogueFont_O
+  rotate: false
+  xy: 131, 53
+  size: 208, 24
+  orig: 208, 24
+  offset: 0, 0
+  index: -1
+RogueFont_W
+  rotate: false
+  xy: 131, 79
+  size: 208, 24
+  orig: 208, 24
+  offset: 0, 0
+  index: -1
+Tiles/armor
+  rotate: false
+  xy: 377, 73
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tiles/bag
+  rotate: false
+  xy: 395, 55
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tiles/blank
+  rotate: false
+  xy: 413, 37
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tiles/door
+  rotate: false
+  xy: 431, 19
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tiles/floor
+  rotate: false
+  xy: 449, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tiles/gold
+  rotate: false
+  xy: 239, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tiles/hallway
+  rotate: false
+  xy: 395, 73
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tiles/meat
+  rotate: false
+  xy: 413, 55
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tiles/player
+  rotate: false
+  xy: 431, 37
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tiles/potion
+  rotate: false
+  xy: 449, 19
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tiles/ring
+  rotate: false
+  xy: 467, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tiles/scroll_blank
+  rotate: false
+  xy: 257, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tiles/scroll_written
+  rotate: false
+  xy: 413, 73
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tiles/spikes
+  rotate: false
+  xy: 431, 55
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tiles/stairs
+  rotate: false
+  xy: 449, 37
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tiles/sword
+  rotate: false
+  xy: 467, 19
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tiles/wall_horiz
+  rotate: false
+  xy: 275, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tiles/wall_horiz_end_left
+  rotate: false
+  xy: 431, 73
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tiles/wall_horiz_end_right
+  rotate: false
+  xy: 449, 55
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tiles/wall_junction
+  rotate: false
+  xy: 467, 37
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tiles/wall_junction_down
+  rotate: false
+  xy: 293, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tiles/wall_junction_left
+  rotate: false
+  xy: 449, 73
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tiles/wall_junction_right
+  rotate: false
+  xy: 467, 55
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tiles/wall_junction_up
+  rotate: false
+  xy: 311, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tiles/wall_lone
+  rotate: false
+  xy: 467, 73
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tiles/wall_vert
+  rotate: false
+  xy: 341, 91
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tiles/wall_vert_end_down
+  rotate: false
+  xy: 359, 91
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tiles/wall_vert_end_up
+  rotate: false
+  xy: 377, 91
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tiles/wand
+  rotate: false
+  xy: 395, 91
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+UI_frame
+  rotate: true
+  xy: 1, 1
+  size: 120, 128
+  orig: 120, 128
+  offset: 0, 0
+  index: -1
